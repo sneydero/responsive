@@ -1,0 +1,27 @@
+@import url(columnas-con-consultas.css);
+
+/* SECCION 1 */
+header #logo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    line-height: 60px;
+}
+
+header center{
+    width: 42px;
+    line-height: 42px;
+    border-radius: 100%;
+    background: #ccc;
+    color: white;
+}
+
+header center#icono1{
+    background: blue;
+}
+header center#icono2{
+    background: green;
+}
+header center#icono3{
+    background: red;
+}
