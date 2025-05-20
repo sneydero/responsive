@@ -47,6 +47,11 @@
     .col-lg-3{width: 25%;}
     .col-lg-2{width: 16.66666667%;}
     .col-lg-1{width: 8.33333333%;}
+    .col-lg-0{display: none;}
+
+    #seccion4 article p img{
+        width: 50%;
+    }
 } 
 
 /* Medium screen */
@@ -63,6 +68,10 @@
     .col-md-3{width: 25%;}
     .col-md-2{width: 16.66666667%;}
     .col-md-1{width: 8.33333333%;}
+    .col-md-0{display: none;}
+    #seccion4 article p img{
+        width: 60%;
+    }
 } 
 
 /* Small screen */
@@ -79,6 +88,10 @@
     .col-sm-3{width: 25%;}
     .col-sm-2{width: 16.66666667%;}
     .col-sm-1{width: 8.33333333%;}
+    .col-sm-0{display: none;}
+    #seccion4 article p img{
+        width: 100%;
+    }
 } 
 
 /* Phones (extra small) screen */
@@ -95,4 +108,9 @@
     .col-xs-3{width: 25%;}
     .col-xs-2{width: 16.66666667%;}
     .col-xs-1{width: 8.33333333%;}
+    .col-xs-0{display: none;}
+
+    #seccion4 article p img{
+        width: 100%;
+    }
 } 
